@@ -1,7 +1,4 @@
-# dottalk-arduino
-DotTalk Arduino Firmware
-
-# Bluetooth Braille Input/Output System
+# Bluetooth Braille Input/Output System Arduino Firmware
 
 ## Overview
 This project implements a Bluetooth-based Braille input/output system. The user can input Braille characters using buttons, and the system can also receive characters via Bluetooth and display them in Braille. The system provides tactile feedback through vibration for both input and output operations.
